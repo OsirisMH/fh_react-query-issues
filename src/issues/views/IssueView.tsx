@@ -7,6 +7,7 @@ const comment3 = "What I don't understand is that in `renderWithHooks`, there is
 
 
 export const IssueView = () => {
+
   return (
     <div className="row mb-5">
       <div className="col-12 mb-3">
